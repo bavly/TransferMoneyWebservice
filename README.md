@@ -6,7 +6,7 @@
 
 ---------------------------------------------------------------------------
 
-Requirements for Main application:
+# Requirements for Main application:
 
 Java 8 , Spring Boot
 
@@ -26,7 +26,6 @@ mvn clean install
 
 
 mvn update project
-
 
 Still adding Testcases to make sure everything is working fine.
 
