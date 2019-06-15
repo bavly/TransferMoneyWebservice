@@ -17,8 +17,6 @@ Spring Data JPA
 
 Swagger
 
-----------------------------------------------------------------------------
-
 I am using Maven
 
 mvn clean install
@@ -27,6 +25,7 @@ mvn clean install
 mvn update project
 
 Still adding Testcases to make sure everything is working fine.
+
 
 # TodoList 
 
