@@ -1,12 +1,13 @@
 # TransferMoneyWebservice
 
+
 - Sending money between two predefined accounts with a positive starting balance
 - Requesting account balance and list of transactions
 
-Requirements
-Main application:
+Requirements for Main application:
 
-Java 8 ,Spring Boot
+Java 8 , Spring Boot
+
 Maven 
 
 H2o Database 
