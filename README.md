@@ -4,6 +4,8 @@
 - Sending money between two predefined accounts with a positive starting balance
 - Requesting account balance and list of transactions
 
+---------------------------------------------------------------------------
+
 Requirements for Main application:
 
 Java 8 , Spring Boot
@@ -16,7 +18,6 @@ Spring Data JPA
 
 Swagger
 
----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 
 I am using Maven
