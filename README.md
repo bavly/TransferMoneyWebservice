@@ -1,7 +1,7 @@
 # TransferMoneyWebservice
 
-Money Transfer
-      This demo is about a REST API for money transfer.
+- Sending money between two predefined accounts with a positive starting balance
+- Requesting account balance and list of transactions
 
 Requirements
 Main application:
